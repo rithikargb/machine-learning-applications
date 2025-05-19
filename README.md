@@ -1,6 +1,5 @@
 # Machine Learning Applications
 
-## Week-wise Breakdown
 
 | Week   | Topic                             |
 |--------|----------------------------------|
@@ -15,8 +14,6 @@
 | Week 9 | Principal Component Analysis (PCA)|
 
 ---
-
-## Highlights
 
 - Utilizes `scikit-learn`, `pandas`, `numpy`, and visualization libraries.
 - Focus on data preprocessing, model building, evaluation metrics, and visualization.
